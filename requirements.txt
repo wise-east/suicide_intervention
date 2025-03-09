@@ -1,0 +1,6 @@
+pandas
+bert-score
+sentence-transformers
+scikit-learn
+nltk
+loguru
