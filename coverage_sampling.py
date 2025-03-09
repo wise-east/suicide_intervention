@@ -167,5 +167,9 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    chosen_narratives = main()
+    
+    for narrative in chosen_narratives:
+        print(narrative)
+        print('-'*100)
 
